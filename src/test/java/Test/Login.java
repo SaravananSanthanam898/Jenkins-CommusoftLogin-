@@ -50,7 +50,7 @@ public class Login {
          UserPassword.submit();
         
         System.out.println("Jenkin succesfully builded");
-        System.out.println("Jenkin succesfully builded");
+  
 		
 	}
 
